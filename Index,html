@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv='X-UA-Compatible' content='chrome=1'></meta>
+<meta http-equiv='Content-Type'
+content='text/html;charset=utf-8'></meta>
+<title>Akadimia - Modelo Final</title>
+<script type='text/javascript'
+src='https://www.x3dom.org/download/x3dom.js'> </script>
+<link rel='stylesheet' type='text/css'
+href='https://www.x3dom.org/download/x3dom.css'/>
+</head>
+<body>
+<h1>Modelo 3D: akadimia_modelofinalcontextura1.x3d</h1>
+<p>
+ Este es el modelo simplificado con textura creado para la práctica. Descárgalo para visualizarlo en tu navegador.</p>
+<x3d width='800px' height='800px'>
+<scene>
+<inline url="https://raw.githubusercontent.com/BeatrizEstapeNeira/modelo-3D-akadimia-9-de-julio-/main/akadimia_modelofinalcontextura1.x3d"></inline>
+</scene>
+</x3d>
+<p>Usa el ratón para rotar, zoom y desplazar.</p>
+</body>
+</html>
